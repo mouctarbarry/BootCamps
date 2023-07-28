@@ -1,6 +1,6 @@
-# Bootcamp Avancé de JavaScript
+# Bootcamp de JavaScript
 
-Bienvenue dans le bootcamp avancé de JavaScript ! Ce bootcamp est conçu pour les développeurs ayant déjà une solide connaissance de base en JavaScript et qui souhaitent approfondir leurs compétences dans ce langage puissant.
+Bienvenue dans ce bootcamp de JavaScript ! Ce bootcamp est conçu pour les développeurs ayant déjà une solide connaissance de base en JavaScript et qui souhaitent approfondir leurs compétences dans ce langage puissant.
 
 ## Contenu du Bootcamp
 
@@ -35,8 +35,8 @@ Si vous trouvez des erreurs ou si vous souhaitez améliorer ce bootcamp, n'hési
 
 ## Licence
 
-Ce bootcamp est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations sur les droits d'utilisation.
+Ce bootcamp est sous licence personnelle, veuillez me contacter pour plus d'informations sur les droits d'utilisation.
 
 Bon apprentissage et profitez pleinement de ce bootcamp avancé de JavaScript !
 
-L'équipe du bootcamp
+Mouctar BARRY
